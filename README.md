@@ -13,8 +13,8 @@ This repository contains a portable Jupyter Notebook that demonstrates human pos
 ## 🚀 Run in Google Colab
 
 Click the badge below to open the notebook directly in Google Colab:
+Copy the link with your USERNAME placed in it.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 (https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/pose_estimation_colab.ipynb)
 
 
