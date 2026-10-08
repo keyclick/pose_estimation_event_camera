@@ -2,7 +2,7 @@
 
 This repository contains a portable Jupyter Notebook that demonstrates human pose estimation using the [MoveNet](https://www.tensorflow.org/lite/models/pose_estimation/overview) model via TensorFlow Hub.
 
-## 📌 Features
+##  Features
 - Uses **MoveNet SinglePose Lightning** model.
 - Allows users to **upload any image** directly in Google Colab.
 - Automatically detects and visualizes human body keypoints.
@@ -10,7 +10,7 @@ This repository contains a portable Jupyter Notebook that demonstrates human pos
 
 ---
 
-## 🚀 Run in Google Colab
+##  Run in Google Colab
 
 Click the badge below to open the notebook directly in Google Colab:
 Copy the link with your USERNAME placed in it.
@@ -20,7 +20,7 @@ Copy the link with your USERNAME placed in it.
 
 ---
 
-## 🖼️ Usage Instructions
+##  Usage Instructions
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).
 2. Upload an image when prompted.
@@ -30,19 +30,19 @@ Copy the link with your USERNAME placed in it.
 
 ---
 
-## 📂 File Structure
+##  File Structure
 
 ```
-📦 your-repo/
-├── pose_estimation_colab.ipynb      # ✅ Main notebook
-├── README.md                        # 📘 This file
+ your-repo/
+├── pose_estimation_colab.ipynb      #  Main notebook
+├── README.md                        # This file
 └── assets/
     └── sample_image.jpg             # (Optional) Sample image
 ```
 
 ---
 
-## 🧠 Model Info
+##  Model Info
 
 - **Model**: MoveNet SinglePose Lightning
 - **Source**: [TF Hub Link](https://tfhub.dev/google/movenet/singlepose/lightning/4)
